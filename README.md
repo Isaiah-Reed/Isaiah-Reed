@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on passion projects, building up a project list 🔭<br>🤝 I’m looking for help with improving code 🤝<br>🌱 I’m currently learning python, GDscript, and C# 🌱<br>👋 Please inquire about my current projects👋<br>
+🔭 I’m currently working on passion projects and building up a project list among other things 🔭<br>🤝 I’m looking for help with improving code 🤝<br>🌱 I’m currently learning python, GDscript, and C# 🌱<br>👋 Please inquire about my current projects👋<br>
 
 
 ## 🌐 Socials:
